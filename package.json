@@ -1,0 +1,23 @@
+{
+  "name": "twitch-viewer-analyzer",
+  "version": "0.1.0",
+  "description": "Aggregate viewer presence for an open stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharpScratchy/twitch-viewer-analyzer.git"
+  },
+  "keywords": [
+    "twitch",
+    "viewer"
+  ],
+  "author": "SharpScratchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharpScratchy/twitch-viewer-analyzer/issues"
+  },
+  "homepage": "https://github.com/SharpScratchy/twitch-viewer-analyzer#readme"
+}
