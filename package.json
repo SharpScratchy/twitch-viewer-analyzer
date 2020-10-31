@@ -22,5 +22,8 @@
   "homepage": "https://github.com/SharpScratchy/twitch-viewer-analyzer#readme",
   "devDependencies": {
     "jasmine": "^3.6.3"
+  },
+  "dependencies": {
+    "@sharpscratchy/notifier": "^1.0.0"
   }
 }
