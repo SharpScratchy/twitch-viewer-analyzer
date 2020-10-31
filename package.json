@@ -24,6 +24,7 @@
     "jasmine": "^3.6.3"
   },
   "dependencies": {
-    "@sharpscratchy/notifier": "^1.0.0"
+    "@sharpscratchy/notifier": "^1.0.0",
+    "node-fetch": "^2.6.1"
   }
 }
