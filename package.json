@@ -4,7 +4,7 @@
   "description": "Aggregate viewer presence for an open stream",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SharpScratchy/twitch-viewer-analyzer/issues"
   },
-  "homepage": "https://github.com/SharpScratchy/twitch-viewer-analyzer#readme"
+  "homepage": "https://github.com/SharpScratchy/twitch-viewer-analyzer#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
 }
